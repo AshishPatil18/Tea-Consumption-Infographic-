@@ -18,7 +18,7 @@ This project is a data-driven infographic showing the **top tea-consuming countr
 
 ## 🖼 Preview
 ![(https://www.canva.com/design/DAGyjgcFRiI/a4-7-04_ZUkN4u957fylJQ/edit?utm_content=DAGyjgcFRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
-[Tea Consumption Infographic] (Tea _Infographic.png)
+[Tea Consumption Infographic](Tea _Infographic.png)
 
 ## 💡 Key Insights
 - India and China lead the world in tea consumption.  
