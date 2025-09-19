@@ -17,8 +17,9 @@ This project is a data-driven infographic showing the **top tea-consuming countr
 - **Design Style:** Flat infographic, data storytelling  
 
 ## 🖼 Preview
-![[(https://www.canva.com/design/DAGyjgcFRiI/a4-7-04_ZUkN4u957fylJQ/edit?utm_content=DAGyjgcFRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]] (tea-consumption.png)
-
+![(https://www.canva.com/design/DAGyjgcFRiI/a4-7-04_ZUkN4u957fylJQ/edit?utm_content=DAGyjgcFRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[Download Video] (Tea _Infographic.mp4)
+[Tea Consumption Infographic] (Tea _Infographic.mp4)
 ## 💡 Key Insights
 - India and China lead the world in tea consumption.  
 - Turkey has the highest **per-capita** tea consumption.  
